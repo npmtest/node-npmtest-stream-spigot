@@ -1,4 +1,7 @@
-# test coverage for  [stream-spigot (v3.0.6)](https://github.com/brycebaril/node-stream-spigot#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-spigot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-spigot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-spigot.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-spigot)
+# npmtest-stream-spigot
+
+#### basic test coverage for  [stream-spigot (v3.0.6)](https://github.com/brycebaril/node-stream-spigot#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stream-spigot.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stream-spigot) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stream-spigot.svg)](https://travis-ci.org/npmtest/node-npmtest-stream-spigot)
+
 #### A readable stream generator, useful for testing or converting simple functions into Readable streams.
 
 [![NPM](https://nodei.co/npm/stream-spigot.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stream-spigot)
